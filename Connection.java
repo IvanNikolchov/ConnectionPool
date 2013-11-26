@@ -1,5 +1,5 @@
 /**
- * ConnectionPool.java
+ * Connection.java
  *
  * @autor Ivan Nikolchov
  * 
